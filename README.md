@@ -10,7 +10,7 @@
 
 <img src="https://farm5.staticflickr.com/4716/39441555094_bff5750a6b_b.jpg" width="923" height="760" alt="hyperledger flow 3">
 
-## Step 3: [Hyperledger Composer](https://composer-playground.mybluemix.net/)
+## Step 3: [Creading a data model with Hyperledger Composer](https://composer-playground.mybluemix.net/)
 
 ## Step 4: Getting data to and from Hyperledger with REST APIs
 
