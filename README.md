@@ -1,4 +1,4 @@
-# designinghyperledgerapps
+# Designing Hyperledger Applications
 
 # Step 1: identify actors and interactions
 
