@@ -10,6 +10,13 @@
 
 # Step 3: [Hyperledger Composer](https://composer-playground.mybluemix.net/)
 
+# Step 4: Getting data to and from Hyperledger with REST APIs
+
+https://www.ibm.com/developerworks/cloud/library/cl-integrate-data-with-hyperledger-composer-blockchain/fig1.png
+
+[Integrate your data with the Hyperledger Fabric blockchain](https://www.ibm.com/developerworks/cloud/library/cl-integrate-data-with-hyperledger-composer-blockchain/index.html)
+
+
 # Step 4:architecture
 
 <img src="https://farm5.staticflickr.com/4708/40152936591_2466ba880c_b.jpg" width="1024" height="565" alt="hyperledger flow 4">
